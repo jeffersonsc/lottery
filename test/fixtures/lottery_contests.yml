@@ -1,0 +1,28 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# This model initially had no columns defined.  If you add columns to the
+# model remove the '{}' from the fixture names and add the columns immediately
+# below each fixture, per the syntax in the comments below
+#
+#one: {}
+# column: value
+#
+#two: {}
+#  column: value
+fix_1: {
+	id: 10,
+	number: 1122,
+	lottery_type_id: 1
+}
+
+fix_2: {
+	id: 11,
+	number: 1234,
+	lottery_type_id: 6
+}
+
+fix_3: {
+	id: 12,
+	number: 1233,
+	lottery_type_id: 4
+}

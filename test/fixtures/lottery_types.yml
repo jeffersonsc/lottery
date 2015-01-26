@@ -1,0 +1,57 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# This model initially had no columns defined.  If you add columns to the
+# model remove the '{}' from the fixture names and add the columns immediately
+# below each fixture, per the syntax in the comments below
+#
+one: {
+	id: 1,
+	game: Mega-Senha
+}
+# column: value
+#
+two: {
+	id: 2,
+	game: Federal
+}
+
+three: {
+	id: 3,
+	game: Loteca
+}
+
+four: {
+	id: 4,
+	game: Lotofacil
+}
+
+five: {
+	id: 5,
+	game: Lotogol
+}
+
+six: {
+	id: 6,
+	game: Lotomania
+}
+
+seven: {
+	id: 7,
+	game: Quina
+}
+
+eight: {
+	id: 8,
+	game: Timemania
+}
+
+nine: {
+	id: 9,
+	game: Dupla Sena
+}
+
+ten: {
+	id: 10,
+	game: Instantanea
+}
+#  column: value
